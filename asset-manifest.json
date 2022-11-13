@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swarmcircles/static/css/main.d7950a27.css",
-    "main.js": "/swarmcircles/static/js/main.a4b4bfa5.js",
-    "static/js/787.94ac2753.chunk.js": "/swarmcircles/static/js/787.94ac2753.chunk.js",
-    "index.html": "/swarmcircles/index.html",
-    "main.d7950a27.css.map": "/swarmcircles/static/css/main.d7950a27.css.map",
-    "main.a4b4bfa5.js.map": "/swarmcircles/static/js/main.a4b4bfa5.js.map",
-    "787.94ac2753.chunk.js.map": "/swarmcircles/static/js/787.94ac2753.chunk.js.map"
+    "main.css": "/SwarmCircles/static/css/main.d7950a27.css",
+    "main.js": "/SwarmCircles/static/js/main.81277a2d.js",
+    "static/js/787.94ac2753.chunk.js": "/SwarmCircles/static/js/787.94ac2753.chunk.js",
+    "index.html": "/SwarmCircles/index.html",
+    "main.d7950a27.css.map": "/SwarmCircles/static/css/main.d7950a27.css.map",
+    "main.81277a2d.js.map": "/SwarmCircles/static/js/main.81277a2d.js.map",
+    "787.94ac2753.chunk.js.map": "/SwarmCircles/static/js/787.94ac2753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7950a27.css",
-    "static/js/main.a4b4bfa5.js"
+    "static/js/main.81277a2d.js"
   ]
 }
